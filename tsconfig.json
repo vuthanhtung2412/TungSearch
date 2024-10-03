@@ -18,6 +18,12 @@
       "ES7"
     ]
   },
+  "ts-node": {
+    "files": true,
+    "compilerOptions": {
+      "module": "commonjs"
+    }
+  },
   "include": [
     "**/*.ts"
   ]
