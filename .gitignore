@@ -23,3 +23,9 @@ data.json
 
 # ONNX
 *.onnx
+
+# Direnv
+.direnv/
+
+# AI models 
+ai_models/
